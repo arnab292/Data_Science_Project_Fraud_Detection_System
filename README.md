@@ -4,4 +4,4 @@ Detect fraudulent transactions in financial data.
     Handling the class imbalance with techniques like SMOTE
     Using performance metrics like F1-score and AUC-ROC
 
-This project given by CODEC TECHNOLOGIES Data science internship.
+This project is given by CODEC TECHNOLOGIES for doing Data science internship.
