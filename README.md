@@ -1,4 +1,4 @@
-Detect fraudulent transactions in financial data.
+Detecting fraudulent transactions in financial data.
  Guidelines:
     Using anomaly detection or classification (Isolation Forest, Autoencoders)
     Handling the class imbalance with techniques like SMOTE
